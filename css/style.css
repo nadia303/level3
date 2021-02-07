@@ -51,7 +51,7 @@ th:first-child, td:first-child {
     width: 50%;
 }
 
-tbody tr:hover {
+tr:hover td {
     background: #f3bd48;
     color: #fff;
 }
